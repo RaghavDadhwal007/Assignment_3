@@ -16,5 +16,8 @@ Make sure you have Python installed. You can download it from [python.org](https
 
    ```bash
    git clone https://github.com/RaghavDadhwal007/Assignment_3.git
-   cd your-repo
+   cd Assignment_3
+   python app.py
    ```
+### LIVE URL
+https://c0891425-assignment-3.onrender.com/
